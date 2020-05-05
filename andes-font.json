@@ -2779,20 +2779,6 @@
       ]
     },
     {
-      "uid": "6646e928503ec493f6d4062cf58f8c66",
-      "css": "pregunta",
-      "code": 59596,
-      "src": "custom_icons",
-      "selected": true,
-      "svg": {
-        "path": "M500 0A332 332 0 0 0 168 334H334A166 166 0 1 1 666 334C666 500 416 484 416 750H584C584 558 832 542 832 334A332 332 0 0 0 500 0Z",
-        "width": 1000
-      },
-      "search": [
-        "pregunta"
-      ]
-    },
-    {
       "uid": "a565c94942dc72e7e9f63b39fdcebe20",
       "css": "prohibido",
       "code": 59597,
@@ -3231,7 +3217,7 @@
       "css": "diario",
       "code": 59467,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M877.8 218.4V94.2H0V781.6S0 907.8 124.2 907.8H907.8S1002 905.8 1002 781.6V218.4ZM124.2 845.7C62.1 845.7 62.1 781.6 62.1 781.6V156.3H813.6V781.6A94.2 94.2 0 0 0 835.7 845.7Z",
         "width": 1002
